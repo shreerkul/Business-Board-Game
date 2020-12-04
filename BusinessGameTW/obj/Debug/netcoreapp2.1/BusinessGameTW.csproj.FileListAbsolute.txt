@@ -1,0 +1,10 @@
+C:\Users\fw235e\source\repos\BusinessGameTW\BusinessGameTW\obj\Debug\netcoreapp2.1\BusinessGameTW.csproj.CoreCompileInputs.cache
+C:\Users\fw235e\source\repos\BusinessGameTW\BusinessGameTW\obj\Debug\netcoreapp2.1\BusinessGameTW.AssemblyInfoInputs.cache
+C:\Users\fw235e\source\repos\BusinessGameTW\BusinessGameTW\obj\Debug\netcoreapp2.1\BusinessGameTW.AssemblyInfo.cs
+C:\Users\fw235e\source\repos\BusinessGameTW\BusinessGameTW\bin\Debug\netcoreapp2.1\BusinessGameTW.deps.json
+C:\Users\fw235e\source\repos\BusinessGameTW\BusinessGameTW\bin\Debug\netcoreapp2.1\BusinessGameTW.runtimeconfig.json
+C:\Users\fw235e\source\repos\BusinessGameTW\BusinessGameTW\bin\Debug\netcoreapp2.1\BusinessGameTW.runtimeconfig.dev.json
+C:\Users\fw235e\source\repos\BusinessGameTW\BusinessGameTW\bin\Debug\netcoreapp2.1\BusinessGameTW.dll
+C:\Users\fw235e\source\repos\BusinessGameTW\BusinessGameTW\bin\Debug\netcoreapp2.1\BusinessGameTW.pdb
+C:\Users\fw235e\source\repos\BusinessGameTW\BusinessGameTW\obj\Debug\netcoreapp2.1\BusinessGameTW.dll
+C:\Users\fw235e\source\repos\BusinessGameTW\BusinessGameTW\obj\Debug\netcoreapp2.1\BusinessGameTW.pdb
